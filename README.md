@@ -1,3 +1,5 @@
+# constructors-in-java
+
 Konsep bahasa pemrograman Java adalah sebagai berikut:
 
 Konstruktor (Constructors):
@@ -43,8 +45,3 @@ Call by Value: For primitive types, a copy of the value is passed. In the exampl
 Call by Reference (or Call by Sharing): For objects, the reference to the object's memory location is passed by value. Changes made to the object's properties via this reference inside a method are reflected in the original object. In the example, modifications to the MyClass object's attribute (obj.value) inside the modifyObject method are visible outside the method because the object is passed by its reference.
 
 These concepts are foundational in Java programming. Constructors are used for object initialization, overloading provides method flexibility, and overriding facilitates polymorphism and method customization in inheritance. Additionally, understanding call by value and call by reference is crucial when working with primitive types and objects, respectively, in method invocations.
-
-# constructors-in-java
-# constructors-in-java
-# constructors-in-java
-# constructors-in-java
