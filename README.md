@@ -1,4 +1,4 @@
-Konsep yang diperlihatkan dalam contoh kode di atas dalam bahasa pemrograman Java adalah sebagai berikut:
+Konsep bahasa pemrograman Java adalah sebagai berikut:
 
 Konstruktor (Constructors):
 Konstruktor adalah metode khusus dalam sebuah kelas yang digunakan untuk menginisialisasi objek. Mereka memiliki nama yang sama dengan kelasnya dan digunakan untuk mengatur nilai awal dari atribut objek. Dalam contoh yang diberikan:
